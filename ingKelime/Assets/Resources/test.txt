@@ -1,0 +1,1 @@
+{"Items":[{"ing":"apple","tr":"elma","sonDogruSayisi":4},{"ing":"car","tr":"araba","sonDogruSayisi":2}]}
