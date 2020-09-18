@@ -8,7 +8,7 @@ public class kelimeClass
 {
     public string ing;
     public string tr;
-    public int sonDogruSayisi;
-
+    public int trIngSonDogruSayisi;
+    public int ingTrSonDogruSayisi;
 
 }

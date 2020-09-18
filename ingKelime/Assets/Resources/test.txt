@@ -1,1 +1,1 @@
-{"Items":[{"ing":"apple","tr":"elma","sonDogruSayisi":4},{"ing":"car","tr":"araba","sonDogruSayisi":2}]}
+{"Items":[{"ing":"horse","tr":"at","trIngSonDogruSayisi":7,"ingTrSonDogruSayisi":2},{"ing":"car","tr":"araba","trIngSonDogruSayisi":3,"ingTrSonDogruSayisi":2}]}
